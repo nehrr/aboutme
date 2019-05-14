@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="myname">Nehrr</string>
+    <string name="mydesc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        \n\nCras et convallis tellus, finibus egestas lorem. Praesent a pellentesque ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce nec dapibus neque.
+        \n\nVivamus fringilla volutpat magna, et faucibus nulla blandit et. Ut mattis ornare elit, sed dictum justo molestie finibus. Nunc viverra vel lacus ut bibendum.
+        \n\nPhasellus mauris leo, dapibus sit amet metus sed, aliquam feugiat sapien.
+        \n\nPellentesque condimentum neque eu ultricies scelerisque. Sed lobortis dolor felis, a convallis ex laoreet sed.
+        \n\nProin fermentum nisi ex, quis auctor enim blandit in.</string>
+    <string name="avatar">avatar</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
